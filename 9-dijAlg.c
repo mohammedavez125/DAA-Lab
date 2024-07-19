@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 #define infinity 999
 void dij(int, int, int[20][20], int[20]);
 int main() {
